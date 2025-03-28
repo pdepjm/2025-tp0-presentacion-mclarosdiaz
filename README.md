@@ -2,6 +2,8 @@
 - Nombre:Maykel Alan
 - Apellido:Claros Diaz
 - Legajo:2031772
+### Foto
+ ![Foto mia](fotomia.png)
   
-### Cosa random
-No se que comentar aca
+### Algo sobre mi
+Soy team invierno
