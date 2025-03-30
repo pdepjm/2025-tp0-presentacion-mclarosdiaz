@@ -6,4 +6,4 @@
  ![Foto mia](fotomia.png)
   
 ### Algo sobre mi
-Soy team invierno
+Me gusta el futbol, la F1 y los perros. La programacion no es mi pasion pero la digiero bastante bien.
